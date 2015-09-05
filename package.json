@@ -1,5 +1,5 @@
 {
-  "name": "url",
+  "name": "iseekr-url",
   "version": "1.2.0",
   "description": "Uniform Resource Locator.",
   "homepage": "https://github.com/hotoo/url",
@@ -13,6 +13,7 @@
   },
   "scripts": {
   },
+  "main": "url.js",
   "keywords": ["utility"],
   "licenses": "MIT",
   "spm": {
